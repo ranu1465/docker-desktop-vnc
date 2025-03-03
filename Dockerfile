@@ -1,10 +1,10 @@
-# Built with arch: amd64 flavor: lxde image: ubuntu:20.04
+# Built with arch: amd64 flavor: lxde image: ubuntu:24.04.2
 #
 ################################################################################
 # base system
 ################################################################################
 
-FROM ubuntu:20.04 as system
+FROM ubuntu:24.04.2 as system
 
 
 
